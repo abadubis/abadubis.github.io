@@ -7,7 +7,7 @@
         },
         {
             src: "cinto.png",
-            descricao: "Tamanhos: 105 a 130 centímetros",
+            descricao: "Tamanhos: 105 a 125 centímetros",
             link: "https://br.shein.com/1pc-Unisex-Punk-Style-Rivet-Pyramid-Studded-PU-Belt-Accessory-Suitable-For-Daily-Wear-Great-Gift-For-Boyfriend-Girlfriend-On-Valentine-s-Day-p-44985308.html?mallCode=1&imgRatio=3-4" 
         },
         {
