@@ -2,7 +2,7 @@
     let vestidos = [
         {
             src: "calça.jpeg",
-            descricao: "Tamanhos: PP a G, Plus Size de 1XL a 4XL",
+            descricao: "Tamanhos: PP a G , Plus Size de 1XL a 4XL",
             link: "https://br.shein.com/ROMWE-Fairycore-Boho-Style-Loose-Women-s-Wide-Leg-Pants-With-Star-Moon-And-Plant-Collage-Print-p-38364593.html?mallCode=1&imgRatio=3-4"
         },
         {
