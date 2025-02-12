@@ -31,10 +31,11 @@ jobs:
         run: |
           pnpm run build
 
-          - name: Upload artifact
-          uses: actions/upload-pages-artifact@v3
-          with:
-            path: dist/  # OU out/ se for Next.js
+      - name: Upload Artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # this should match the `pages` option in your adapter-static options
+          path: "build/"
 
   deploy:
     needs: build_site
