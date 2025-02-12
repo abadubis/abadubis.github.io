@@ -31,7 +31,7 @@
             <div class="vestido">
                 <img src={vestido.src} alt="Vestido Gótico" />
                 <p>{vestido.descricao}</p>
-                <a href={vestido.link} target="_blank">Ver Produto</a>
+                <a href={vestido.link} target="_blank"> Ver Produto </a>
             </div>
         {/each}
     </div>
