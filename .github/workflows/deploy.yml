@@ -34,7 +34,7 @@ jobs:
           - name: Upload artifact
           uses: actions/upload-pages-artifact@v3
           with:
-            path: build/
+            path: dist/  # OU out/ se for Next.js
 
   deploy:
     needs: build_site
