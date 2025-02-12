@@ -1,11 +1,1 @@
-export const load = async () => {
-    return {
-        title: "Excentrika Wear",
-    };
-};
-
-
-
-
-
-
+export const prerender = true;
